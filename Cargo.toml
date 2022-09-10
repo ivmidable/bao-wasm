@@ -1,6 +1,6 @@
 [package]
 name = "bao-wasm"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Richard Vade <ivmidable@gmail.com>"]
 description = "wasm bindings for bao"
 license = "MIT/Apache-2.0"
