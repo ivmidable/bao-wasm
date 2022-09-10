@@ -37,7 +37,7 @@ impl Encoded {
         self.hash.to_hex().to_string()
     }
 
-    pub fn is_outboat(&self) -> bool {
+    pub fn is_outboard(&self) -> bool {
         self.outboard.is_some()
     }
 
